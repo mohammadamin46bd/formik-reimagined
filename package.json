@@ -28,7 +28,7 @@
     "format": "prettier --trailing-comma es5 --single-quote --write \"src/**/*\" \"test/**/*\" \"README.md\""
   },
   "dependencies": {
-    "ramda": "^0.26.1"
+    "ramda": "^0.29.1"
   },
   "optionalDependencies": {},
   "resolutions": {
